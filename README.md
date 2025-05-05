@@ -4,7 +4,7 @@ Thanks to Jon for sharing his wonderful design. Whilst in the middle of designin
 
 ![IMG_5999](https://github.com/user-attachments/assets/5adad805-007b-4bd7-884b-ef74f630b782)
 
-I didnt want to use a 3D printed case to house the PicoRx so I desinged the top and bottom cover to provide the PCB sandwich style housing which is shown below.
+I didnt want to use a 3D printed case to house the PicoRx so I designed the top and bottom cover to provide the PCB sandwich style housing which is shown below.
 
 ![IMG_6048](https://github.com/user-attachments/assets/0f248036-4a4b-4bd5-a9a0-ff131a95f619)
 
