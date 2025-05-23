@@ -1,6 +1,10 @@
 This repository holds files relevant to the PiCo Rx project - a design by Jon Dawson (see: https://101-things.readthedocs.io/en/latest/breadboard_radio.html ). 
 
-Thanks to Jon for sharing his wonderful design. Whilst in the middle of designing my own prototype board for the PicoRX, the CalQRP group put together their own board (designed by John Sutter K6JDS) which I buiilt with a 1.3" OLED display rather that the original 0.96". The CalQRP Board incorporated a small audio amp and speaker, a BCI filter (based on design by Peter Parker VK3YE), LNA and LiPo battery management system to augment Jon Dawson's design.
+The folder VK2ARH version contains files for my own implementation of the Jon Dawson's Breadboard design together with a BCI filter and connections for an external LCD Colour Display. This format can operate as a fully functional PicoRx with all its capabilities (with the addition of a switchable BCI filter) but the layout has been designed to provide a starting point or building block for the addition of external components (eg: LNA, Band Pass Filters, Audio Amplifier, Battery and Power Management Systems, external transmitters etc.). The design also provides an external user interface connector to enable to remove mounting of the radio controls and screen if mounting in a larger enclosure. This layour was designed largely around through hole components and a self contained PCB sandwich construction to allow it to be build by beginners in Radio Club Buildathon style of events or by individuals. Thanks to Jon for sharing his wonderful design.
+
+![image](https://github.com/user-attachments/assets/41dd29c4-c2a6-467d-9ef9-43eb7fe00e9e)
+
+Whilst in the middle of designing my own prototype board for the PicoRX, the CalQRP group put together their own board (designed by John Sutter K6JDS) which I buiilt with a 1.3" OLED display rather that the original 0.96". The CalQRP Board incorporated a small audio amp and speaker, a BCI filter (based on design by Peter Parker VK3YE), LNA and LiPo battery management system to augment Jon Dawson's design.
 
 ![IMG_5999](https://github.com/user-attachments/assets/5adad805-007b-4bd7-884b-ef74f630b782)
 
