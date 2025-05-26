@@ -10,5 +10,4 @@ There are two folders in this repository. The 'PicoRx VK2ARH Version' folder con
 
 The second folder 'CalQRP Layout PCB Housing Files' contains the top and bottom cover PCB Gerber files which provide an alternative to mounting option for that project. The CalQRP group put together their own board (designed by John Sutter K6JDS) which I sourced and built with a 1.3" OLED display rather that the original 0.96" display. The CalQRP Board incorporated a small audio amp and speaker, a BCI filter (based on design by Peter Parker VK3YE), LNA and LiPo battery management system to augment Jon Dawson's design. I didnt want to use a 3D printed case to house the CalQRP groups PicoRx board so I designed the top and bottom cover to provide the PCB sandwich style housing which is shown below.
 
-![image](https://github.com/user-attachments/assets/3d63cd4b-340b-4d5c-ad4e-7131ad7b4442)
-                     ![image](https://github.com/user-attachments/assets/99f64765-9dff-45b8-abd8-df829a05f50b)
+![image](https://github.com/user-attachments/assets/ef4110b1-d964-4879-b739-b2f9f937d453)
