@@ -1,6 +1,12 @@
+5th July 2025 Update
+
+The initial relase of the construction manual V1.0 has been published. Whilst this is still in many ways a WIP, updates will be made base on feedback and user experience, I trust there is sufficient detail and illustrations to make your build a success.
+
+![image](https://github.com/user-attachments/assets/cbf2df4f-4cae-4aa6-818e-9b973baa3f13)
+
 27 June 2025 Update
 
-The latest version 2.4 gerber files have been uploaded - there are a few minor changes to the earlier 2.1 version. These include minor screen print updates on the boards, the removal of the Tx/Rx switch as it was not working correctly and the relocation of the BCI filter jumpers to a switch on the left hand side of the board. Vedrsion 2.4 also provides for the use of a USB-C power input instead in addition to the 5.5mm DC socket to avoid any possibility of supplying > 5v to the board. The construction manual is about 90% complete for the version 2.4 build and is still a work in progress (its not yet finished), but I have had a couple of requests for it from people who are building this version of the PicoRx so I have put a copy here to help out.
+The latest version 2.4 gerber files have been uploaded - there are a few minor changes to the earlier 2.1 version. These include minor screen print updates on the boards, the removal of the Tx/Rx switch as it was not working correctly and the relocation of the BCI filter jumpers to a switch on the left hand side of the board. Vedrsion 2.4 also provides for the use of a USB-C power input instead in addition to the 5.5mm DC socket to avoid any possibility of supplying > 5v to the board. 
 
 ![IMG_7362](https://github.com/user-attachments/assets/64dedb83-6b76-4685-8540-dadf5a6e6a87)
 
