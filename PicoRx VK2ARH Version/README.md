@@ -6,7 +6,7 @@ The initial relase of the construction manual V1.0 has been published. Whilst th
 
 27 June 2025 Update
 
-The latest version 2.4 gerber files have been uploaded - there are a few minor changes to the earlier 2.1 version. These include minor screen print updates on the boards, the removal of the Tx/Rx switch as it was not working correctly and the relocation of the BCI filter jumpers to a switch on the left hand side of the board. Version 2.4 also provides for the use of a USB-C power input instead in addition to the 5.5mm DC socket to avoid any possibility of supplying > 5v to the board and the relocation of the Volume text on the front screen to below the volume control knob. 
+The latest version 2.4 gerber files have been uploaded - there are a few minor changes to the earlier 2.1 version. These include minor screen print updates on the boards, the removal of the Tx/Rx switch, the relocation of the BCI filter jumpers to a switch on the left hand side of the board. Version 2.4 also provides for the use of a USB-C power input instead in addition to the 5.5mm DC socket to avoid any possibility of supplying > 5v to the board and relocation of the 'Volume' text on the front panel silk screen to below the volume control knob. 
 
 ![IMG_7362](https://github.com/user-attachments/assets/64dedb83-6b76-4685-8540-dadf5a6e6a87)
 
