@@ -1,3 +1,7 @@
+7th September 2025 Update
+
+Latest construction manual V1.3.1 uploaded to this directory
+
 22nd July 2025 Update
 
 A new update to the construction manual has been released at V1.1. This contains a few minor corrections from the 1.0 version and should be used for constructing the VK2ARH Pi-PicoRx version. This is the manual to be used by the Manly Warringah Radio Society for their August 2025 Buildathon project.
